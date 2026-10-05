@@ -1,3 +1,5 @@
 Profa si esta viendo esto entro al link del repo de github, la quiero mucho profa saqueme 10
 atentamente Aaron Vazquez
 pd: Ya le dije a mi mami que me ponga almuerz saludable para mis participaciones
+Por cierto, este proyecto aun esta en una fase Alfa, lo que ve ahora es una demo de lo que hemos hecho por si gusta checar
+Las instrucciones de ejecuccion del programa estan en la misma descripcion del repositorio (README.md)
